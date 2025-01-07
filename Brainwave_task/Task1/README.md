@@ -16,7 +16,8 @@ This repository contains a Power BI dashboard I created during my internship to 
 - **Excel/MySQL**: For data cleaning and preparation.  
 
 ## Preview  
-![Brainwave Sales dashboard](https://github.com/user-attachments/assets/dd6553f0-3450-4218-9524-64ef03c2494d)
+![Brainwave Sales dashboard](https://github.com/user-attachments/assets/9f5529f9-dff4-46be-b9df-7b7268ca695f)
+
 
 
 Feel free to explore and provide feedback! 😊 
